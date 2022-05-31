@@ -1,9 +1,9 @@
 .balance-container {
-    background-color:hsl(10, 79%, 65%);
-    color:white;
-    display: flex;
-    justify-content: space-between;
-    width: 35%;
-    padding: 1rem 3rem;
-    border-radius: 2rem;
+  background-color: hsl(10, 79%, 65%);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 35%;
+  padding: 1rem 3rem;
+  border-radius: 2rem;
 }
