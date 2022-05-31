@@ -1,0 +1,21 @@
+.spending-container {
+    background-color: white;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 2rem;
+    width: 35%;
+}
+
+.graph-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bar {
+    background-color:hsl(10, 79%, 65%);
+    border-radius: 1rem;
+    width: 2rem;
+    padding: 0.5rem;
+}
